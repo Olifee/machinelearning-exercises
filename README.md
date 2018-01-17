@@ -1,4 +1,4 @@
-ud120-projects
+Solution for ud120-projects
 ==============
 
-Starter project code for students taking Udacity ud120
+Based on the project code for the Udacity ud120 machine learning course (https://github.com/udacity/ud120-projects)
